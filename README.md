@@ -23,7 +23,8 @@ and through this project you also will get a deep understanding of such sorting 
 
 
 #Approach
+
 • Creating the website's User Interface (UI) using HTML and CSS without actually 
-implementing any of the app's core features.
+  implementing any of the app's core features.
 • Implementation of animations, effects and core functionalities (sorting algorithms) 
-using JavaScript.
+  using JavaScript.
