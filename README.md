@@ -1,3 +1,5 @@
+https://sejalrana.github.io/Sorting_Visualizer/
+
 #Overview
 
 This project is built using HTML, CSS, and JS. This project sorting visualizer is a very simple UI 
